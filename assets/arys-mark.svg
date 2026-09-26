@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">ARYS Ingeniería Integral</title>
+  <rect width="64" height="64" rx="16" fill="#102739"/>
+  <path d="M16 46 29.2 17h6.2L49 46h-7.5l-2.7-6.4H25.6L23 46h-7Zm12.2-12.6h8L32.1 23l-3.9 10.4Z" fill="#f3b23c"/>
+  <path d="M21 50h27" stroke="#d9e4e9" stroke-width="3" stroke-linecap="round"/>
+</svg>
